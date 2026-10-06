@@ -1,0 +1,1 @@
+console.log("PSP Student Portal Loaded Successfully.");
